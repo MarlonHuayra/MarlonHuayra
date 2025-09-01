@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Marlon Huayra  
 
-<!--
-**MarlonHuayra/MarlonHuayra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Developer & Designer** from Cochabamba, Bolivia.  
+🎮 Lead developer of *Nana: The Magical Forest*, a 2D action-adventure video game built with **Godot 4.3 (GDScript)** to promote environmental awareness.  
+🌱 Passionate about **interactive experiences, web development, and 3D design**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend**: React, Vite, JavaScript, HTML, CSS  
+- **Backend**: MySQL, Firebase  
+- **Game Dev**: Godot 4.3, GDScript  
+- **Design & 3D**: Blender, Photoshop  
+
+---
+
+## 🚀 Featured Projects
+- [🎮 Nana’s Adventure (Godot 4.3)](https://github.com/MarlonHuayra/nanas-adventure)  
+- [🌍 Nana’s Eco Adventure Web (React + Vite)](https://github.com/MarlonHuayra/nanas-game-web-react-vite)  
+- [📦 Inventory Management App (GoodPlay)](https://github.com/MarlonHuayra/practica-instancias)  
+
+---
+
+## 📫 Connect with me
+- 📌 Portfolio: [Behance](https://www.behance.net/mxrlonxr)  
+- 📌 GitHub: [github.com/MarlonHuayra](https://github.com/MarlonHuayra)  
+- 📧 Email: huayra.marlon.654@gmail.com  
+
+---
+✨ Always learning, creating, and building meaningful digital experiences.  
