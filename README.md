@@ -17,12 +17,12 @@
 ## 🚀 Featured Projects
 - [🎮 Nana’s Adventure (Godot 4.3)](https://github.com/MarlonHuayra/nanas-adventure)  
 - [🌍 Nana’s Eco Adventure Web (React + Vite)](https://github.com/MarlonHuayra/nanas-game-web-react-vite)  
-- [📦 Inventory Management App (GoodPlay)](https://github.com/MarlonHuayra/practica-instancias)  
+
 
 ---
 
 ## 📫 Connect with me
-- 📌 Portfolio: [Behance](https://www.behance.net/mxrlonxr)  
+- 📌 Portfolio: [Behance](https://www.behance.net/mxrlonxrt)  
 - 📌 GitHub: [github.com/MarlonHuayra](https://github.com/MarlonHuayra)  
 - 📧 Email: huayra.marlon.654@gmail.com  
 
